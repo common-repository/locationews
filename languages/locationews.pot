@@ -1,0 +1,327 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Locationews\n"
+"POT-Creation-Date: 2018-04-05 14:42+0300\n"
+"PO-Revision-Date: 2018-01-30 17:24+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: locationews.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/Plugin.php:299
+msgid "All"
+msgstr ""
+
+#: classes/Plugin.php:563 classes/Provider/Admin.php:133
+#: classes/Provider/Metabox.php:318
+msgid "Search location"
+msgstr ""
+
+#: classes/Plugin.php:725
+msgid "Post successfully added"
+msgstr ""
+
+#: classes/Plugin.php:726
+msgid "Post successfully updated"
+msgstr ""
+
+#: classes/Plugin.php:727
+msgid "Post deleted from Locationews"
+msgstr ""
+
+#: classes/Plugin.php:728
+msgid ""
+"Post successfully added. <strong>Note that this is just a testing "
+"enviroment. Your article was not really posted to Locationews API.</strong> "
+"Register your free account at <a href=\"https://locationews.com/en/\" target="
+"\"_blank\">Locationews.com</a>"
+msgstr ""
+
+#: classes/Plugin.php:729
+msgid ""
+"Post successfully updated. <strong>Note that this is just a testing "
+"enviroment. Your article was not really posted to Locationews API.</strong> "
+"Register your free account at <a href=\"https://locationews.com/en/\" target="
+"\"_blank\">Locationews.com</a>"
+msgstr ""
+
+#: classes/Plugin.php:730
+msgid ""
+"Post deleted from Locationews. <strong>Note that this is just a testing "
+"enviroment. Your article was not really posted to Locationews API.</strong> "
+"Register your free account at <a href=\"https://locationews.com/en/\" target="
+"\"_blank\">Locationews.com</a>"
+msgstr ""
+
+#: classes/Plugin.php:753
+msgid "General error"
+msgstr ""
+
+#: classes/Plugin.php:754
+msgid "Invalid URL or request method"
+msgstr ""
+
+#: classes/Plugin.php:755
+msgid "No Authorization header"
+msgstr ""
+
+#: classes/Plugin.php:756
+msgid "JWT error"
+msgstr ""
+
+#: classes/Plugin.php:757
+msgid "Missing required parameter"
+msgstr ""
+
+#: classes/Plugin.php:758
+msgid "Forbidden parameter"
+msgstr ""
+
+#: classes/Plugin.php:759
+msgid "Invalid value for parameter"
+msgstr ""
+
+#: classes/Plugin.php:760
+msgid "Insufficient privileges to perform action"
+msgstr ""
+
+#: classes/Plugin.php:761
+msgid "No news id"
+msgstr ""
+
+#: classes/Plugin.php:762
+msgid "No user id"
+msgstr ""
+
+#: classes/Plugin.php:763
+msgid "User not found"
+msgstr ""
+
+#: classes/Plugin.php:764
+msgid "Error uploading image"
+msgstr ""
+
+#: classes/Plugin.php:765
+msgid "Unable to delete file since the file does not exist"
+msgstr ""
+
+#: classes/Plugin.php:766
+msgid "Image file not deleted since it does not belong to this news"
+msgstr ""
+
+#: classes/Plugin.php:767
+msgid "Saving news data failed"
+msgstr ""
+
+#: classes/Plugin.php:768
+msgid "No publication id"
+msgstr ""
+
+#: classes/Plugin.php:769
+msgid "Publication not found"
+msgstr ""
+
+#: classes/Plugin.php:770
+msgid "Error processing image"
+msgstr ""
+
+#: classes/Plugin.php:771
+msgid "Error resizing image"
+msgstr ""
+
+#: classes/Plugin.php:772
+msgid "Error saving resized image"
+msgstr ""
+
+#: classes/Plugin.php:773
+msgid "Error saving image thumbnail"
+msgstr ""
+
+#: classes/Plugin.php:774
+msgid "Error copying image, file not found"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+#: classes/Provider/Metabox.php:61
+msgid "Locationews"
+msgstr ""
+
+#: classes/Provider/Metabox.php:204
+msgid ""
+"When Locationews is enabled, the article will be automatically added to "
+"Locationews when you press the Publish. If you would like to take published "
+"article out of Locationews, change to Off and update the article."
+msgstr ""
+
+#: classes/Provider/Metabox.php:206
+msgid "Locationews enabled"
+msgstr ""
+
+#: classes/Provider/Metabox.php:221
+msgid "Enable Ads"
+msgstr ""
+
+#: classes/Provider/Metabox.php:223
+msgid "Ads"
+msgstr ""
+
+#: classes/Provider/Metabox.php:242
+msgid "Enable show more"
+msgstr ""
+
+#: classes/Provider/Metabox.php:244
+msgid "Show more"
+msgstr ""
+
+#: classes/Provider/Metabox.php:261
+msgid ""
+"Select a Locationews category for the news. This function does not affect to "
+"the WordPress categories."
+msgstr ""
+
+#: classes/Provider/Metabox.php:263
+msgid "Category"
+msgstr ""
+
+#: classes/Provider/Metabox.php:280
+msgid "Article's authors"
+msgstr ""
+
+#: classes/Provider/Metabox.php:282
+msgid "Authors"
+msgstr ""
+
+#: classes/Provider/Metabox.php:292 classes/Provider/Metabox.php:294
+msgid "Coordinates"
+msgstr ""
+
+#: classes/Provider/Metabox.php:307 classes/Provider/Metabox.php:309
+msgid "Show control panel"
+msgstr ""
+
+#: classes/Provider/Metabox.php:315
+msgid ""
+"Add your news location on the map by dragging the marker or double clicking "
+"on the map. You can also search location by address."
+msgstr ""
+
+#: classes/Provider/Options.php:57 classes/Provider/Options.php:58
+msgid "Edit Settings"
+msgstr ""
+
+#: classes/Provider/Options.php:66 classes/Provider/Options.php:67
+#: classes/Provider/Options.php:178 classes/Provider/Options.php:278
+msgid "Import Settings"
+msgstr ""
+
+#: classes/Provider/Options.php:93
+msgid ""
+"Locationews plugin publish your news to Locationews service. With these "
+"settings, you can specify the basic functions on the map selector which "
+"appear in the article edit view."
+msgstr ""
+
+#: classes/Provider/Options.php:97
+msgid ""
+"Register your free account at <a href=\"https://locationews.com/en/\" target="
+"\"_blank\">Locationews.com</a> and start publishing."
+msgstr ""
+
+#: classes/Provider/Options.php:124
+msgid "Save Settings"
+msgstr ""
+
+#: classes/Provider/Options.php:152
+msgid ""
+"Download plugin settings from <a href=\"https://locationews.com/en/\" target="
+"\"_blank\">Locationews.com</a> and copy contents of settings.json to "
+"textarea."
+msgstr ""
+
+#: classes/Provider/Options.php:203
+msgid "Settings"
+msgstr ""
+
+#: classes/Provider/Options.php:210
+msgid "Default Category"
+msgstr ""
+
+#: classes/Provider/Options.php:215
+msgid ""
+"Set the default category for Locationews articles. This function does not "
+"affect on the WordPress categories."
+msgstr ""
+
+#: classes/Provider/Options.php:224
+msgid "Categories"
+msgstr ""
+
+#: classes/Provider/Options.php:229
+msgid "Select WordPress Categories whose news you want to post to Locationews."
+msgstr ""
+
+#: classes/Provider/Options.php:238
+msgid "Post types"
+msgstr ""
+
+#: classes/Provider/Options.php:243
+msgid ""
+"Choose which post types you want to allow use Locationews. The default "
+"option is normal post type."
+msgstr ""
+
+#: classes/Provider/Options.php:252
+msgid "Default location"
+msgstr ""
+
+#: classes/Provider/Options.php:257
+msgid ""
+"Select the default location (the default option is your publication's "
+"address, here you can choose another location)."
+msgstr ""
+
+#: classes/Provider/Options.php:285
+msgid "Contents of settings.json"
+msgstr ""
+
+#: classes/Provider/Options.php:290
+msgid "Copy and paste contents of settings.json here."
+msgstr ""
+
+#: classes/hooks/Locationews_Activator.php:21
+msgid "cURL library is required. Can't use the plugin without it."
+msgstr ""
+
+#: classes/hooks/Locationews_Activator.php:26
+msgid "Locationews 2 requires PHP 5.6 or higher."
+msgstr ""
+
+#: classes/hooks/Locationews_Activator.php:76
+msgid "Can't read required settings"
+msgstr ""
+
+#: classes/hooks/Locationews_Activator.php:169
+msgid "Required settings are invalid"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Publish location based articles in Locationews."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.locationews.com"
+msgstr ""
